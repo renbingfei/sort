@@ -8,7 +8,7 @@ public class RadixSort {
 	 * @return void:none return
 	 */
 	public static void sort(int[] number,int d){
-		String str="from renbingfei";
+		String str="from renbingfei2";
 		int m=1;
 		int k=0;
 		int n=1;
